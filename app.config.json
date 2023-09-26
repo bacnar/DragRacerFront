@@ -1,0 +1,4 @@
+{
+  "API_URL": "http://localhost:5115/api/",
+  "WS_URL": "http://localhost:5115/hub"
+}
